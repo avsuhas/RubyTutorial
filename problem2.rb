@@ -3,7 +3,7 @@
 #     puts "last_name:, #{lname}."
 # end
 
-# first_input = gets.chomp
+# first_input = gets.chomp  -- chomps off the last character
 # last_input = gets.chomp
 
 # problem(first_input, last_input)
