@@ -6,6 +6,7 @@
 
 #puts "Hello," + name + "!" 
 
+-------------------------------
 #method version
 
 #def hello
@@ -13,7 +14,7 @@
 #end
 
 #hello
-
+-------------------------------
 def hello(name)
     puts "Hello, #{name}."
 end
